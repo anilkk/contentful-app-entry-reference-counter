@@ -1,3 +1,18 @@
+# Entry Reference counter
+
+It's a Contentful Page app to list references for each entry in the space. It's helpful to view which entry has the most connections and which entry doesn't have any reference. Useful to clean up or remove unused entries. 
+
+![Entry Reference Counter screen](./img/entry-reference-counter.png)
+
+## Purpose 
+
+
+## Next steps 
+1. Implement pagination. Currently, it shows the reference for the first 10 items only.
+2. Open entry in a slider.
+3. Clean TypeScript issues. Remove // @ts-ignore 
+
+
 This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
 
 ## Available Scripts

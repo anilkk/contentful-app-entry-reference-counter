@@ -4,7 +4,7 @@ It's a Contentful Page app to list references for each entry in the space. It's 
 
 ![Entry Reference Counter screen](./img/entry-reference-counter.png)
 
-## Purpose 
+It's a collaboration project by [@anilkk](https://github.com/anilkk) and [@marianoa](https://github.com/marianoa). 
 
 
 ## Next steps 
